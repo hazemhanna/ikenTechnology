@@ -1,0 +1,6 @@
+framework module Pods_IkenTechnology {
+  umbrella header "Pods-IkenTechnology-umbrella.h"
+
+  export *
+  module * { export * }
+}
